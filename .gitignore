@@ -10,3 +10,7 @@ renv/staging/
 
 # build artifacts
 *.tar.gz
+
+.DS_Store
+.Rhistory
+derived/
