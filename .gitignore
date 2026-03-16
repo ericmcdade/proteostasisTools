@@ -1,1 +1,12 @@
-.Rproj.user
+.Rhistory
+.Rproj.user/
+.Rdata
+.RDS
+.DS_Store
+
+# renv caches if you ever add renv in this repo
+renv/library/
+renv/staging/
+
+# build artifacts
+*.tar.gz
